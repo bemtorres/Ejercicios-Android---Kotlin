@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pizzeria Juanito</string>
+
+    <string name="nombre">Ingrese su nombre</string>
+
+    <string name="peque">Pequeña</string>
+    <string name="mediana">Mediana</string>
+    <string name="familiar">Familiar</string>
+
+    <string name="carne">Carne</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="tocino">Tocino</string>
+    <string name="champinon">Champiñon</string>
+    <string name="tomate">Tomate</string>
+    <string name="choclo">Choclo</string>
+    <string name="aceituna">Aceituna</string>
+
+    <string name="aceptar">Aceptar</string>
+    <string name="volver">Volver</string>
+
+
+    <string name="precioes">Precio Pizza:</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio_Dinero</string>
+    <string-array name="planetas_array">
+        <item>USD</item>
+        <item>CLP</item>
+        <item>Euro</item>
+    </string-array>
+    <string name="Valor">Valor a cambiar</string>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity" android:orientation="vertical">
+
+    <TextView
+            android:text="@string/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/titulo"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline" android:textAlignment="center"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/txtNombre" android:hint="@string/nombre"/>
+    <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" android:id="@+id/rgSize">
+        <RadioButton
+                android:text="@string/peque"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/rbPeq" android:layout_weight="1"/>
+        <RadioButton
+                android:text="@string/mediana"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/rbMed" android:layout_weight="1"/>
+        <RadioButton
+                android:text="@string/familiar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/rbFam" android:layout_weight="1"/>
+    </RadioGroup>
+    <CheckBox
+            android:text="@string/carne"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbCarne"/>
+    <CheckBox
+            android:text="@string/pepperoni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbPepperoni"/>
+    <CheckBox
+            android:text="@string/tocino"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbTocino"/>
+    <CheckBox
+            android:text="@string/champinon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbChampi"/>
+    <CheckBox
+            android:text="@string/tomate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbTomate"/>
+    <CheckBox
+            android:text="@string/choclo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbChoclo"/>
+    <CheckBox
+            android:text="@string/aceituna"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/cbAceituna"/>
+    <Button
+            android:text="@string/aceptar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/btnAceptar"/>
+</LinearLayout>

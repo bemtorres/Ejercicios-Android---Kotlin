@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Guia13-1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="salir">Salir</string>
+    <string name="listar">Ver Asistentes</string>
+
+    <string name="agregarPersona">Agregar Persona</string>
+    <string name="Rut">Rut:</string>
+    <string name="IngreseRut">Ingrese Rut</string>
+    <string name="DV">Dv</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="IngreseNombre">Ingrese Nombre</string>
+    <string name="fecha">Fecha Ingreso</string>
+    <string name="Agregar">Agregar</string>
+    <string name="raya">-</string>
+    <string name="lista">Agregar</string>
+</resources>
