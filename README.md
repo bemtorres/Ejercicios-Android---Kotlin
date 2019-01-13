@@ -53,7 +53,7 @@ Gracias por su compra.
 ## 1.8 Guía 3 Calculadora
 ¿Recuerda la primera calculadora que creó? Usted ha avanzado con el proceso de contratación de dicha empresa. Por lo que ahora se le ha pedido crear una nueva calculadora, ahora en Android Studio y con la interfaz adecuada. La empresa le proporciona una vista previa de como debe verse la aplicación.
  
-[] img 1
+![Imagen 1 ](https://github.com/bemtorres/Ejercicios-Android---Kotlin/blob/master/img/img1.png?raw=true)
 
 1.	El resultado debe ser mostrado utilizando un Toast.
 2.	Es necesario que todo los texto sean a través de los elementos de string y no con “hardcoding”.
@@ -62,7 +62,7 @@ Gracias por su compra.
 ## 1.9 Guía 4 Pizza
 La pizzería Juanito lo a contactado para crear una pequeña aplicación en Android que les permita a sus clientes calcular los precios de sus pizzas, según su tamaño e ingredientes. Para esto se le ha enviado una pantalla de muestra de como debería verse la aplicación junto con los precios de cada producto.
 
-[] img 2
+![Imagen 2 ](https://github.com/bemtorres/Ejercicios-Android---Kotlin/blob/master/img/img2.png?raw=true)
 
 Cree una aplicación que permita dar solución al requerimiento de la pizzería Juanito.
 1.	El resumen de ingredientes junto al precio final debe ser mostrados en un nuevo activity.
@@ -73,7 +73,7 @@ Cree una aplicación que permita dar solución al requerimiento de la pizzería 
 
 Usted a sido contactado por una empresa que se dedica a realizar inventario de productos, para que realice una aplicación en Android la cual permita ingresar productos y listar todos los productos ingresados. La empresa le a proporcionado una vista previa de como desean que se vea y funcione la aplicación.
 
-[] img 3
+![Imagen 3 ](https://github.com/bemtorres/Ejercicios-Android---Kotlin/blob/master/img/img3.png?raw=true)
 
 1.	Al agregar un elemento debe refrescar la lista automáticamente, además de informar que fue agregado exitosamente a través de un Toast.
 2.	Es necesario controlar y validar que no se ingresen valores en blanco.
@@ -95,7 +95,7 @@ La empresa dedicada al manejo de inventario que le había encargado una aplicaci
 
 Usted a sido contactado por un familiar el cual le a solicitado si, puede crearle un convertidor de divisas con distintas divisas como Dólar, peso chileno, Euro, Yen, etc. El cuál debe ser una aplicación de Android para que él pueda utilizarlo cuando desee, sin la necesidad de tener internet.
 
-[] img 4
+![Imagen 4 ](https://github.com/bemtorres/Ejercicios-Android---Kotlin/blob/master/img/4.jpg?raw=true)
 
 1.	Debe permitir solo la conversión de números.
 2.	Es necesario controlar y validar que no se ingresen valores en blanco.
